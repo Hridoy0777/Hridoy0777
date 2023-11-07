@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm RIDDU NOOB</h1>
 <h3 align="center">A python coder from Bangladesh</h3>
-<https://www.google.com/search?q=animated+boy+anime+coding+gif&tbm=isch&ved=2ahUKEwiY45ulgbGCAxXlm2MGHXVDC1YQ2-cCegQIABAD&oq=animated+boy+anime+coding+gif&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzIFCAAQogQyBQgAEKIEMgUIABCiBDIFCAAQogQyBQgAEKIEOgQIIxAnUIoMWIcWYMobaABwAHgAgAHSA4gB0g-SAQcyLTIuMy4xmAEAoAEBwAEB&sclient=mobile-gws-wiz-img&ei=hrdJZZiIOuW3juMP9YatsAU&bih=1217&biw=590&client=ms-android-transsion&prmd=ivbn&hl=en-GB#imgrc=pSxSsdPZChEvVM>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridoy0777" alt="hridoy0777" /></a> </p>
 
